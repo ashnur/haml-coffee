@@ -1,2 +1,1 @@
-require('coffee-script');
-module.exports = require('./src/hamlc.coffee');
+module.exports = require('./src/hamlc.js');
