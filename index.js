@@ -1,1 +1,1 @@
-module.exports = require('./src/hamlc.js');
+module.exports = require('./jssrc/hamlc.js');
